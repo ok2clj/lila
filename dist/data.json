@@ -1,0 +1,533 @@
+{
+  "version": 1,
+  "fields": [
+    {
+      "id": 1,
+      "name": "Zrození",
+      "term": "Janma",
+      "meaning": "Každá cesta začíná ochotou vstoupit do neznámého. Zrození zde připomíná chvíli, kdy dáš svému záměru konkrétní podobu.",
+      "question": "Čemu chci právě teď dát začátek?"
+    },
+    {
+      "id": 2,
+      "name": "Iluze",
+      "term": "Maya",
+      "meaning": "To, co si o situaci vyprávíš, nemusí být celá skutečnost. Rozlišuj pozorovatelná fakta od svých domněnek.",
+      "question": "Co vím jistě a co si pouze domýšlím?"
+    },
+    {
+      "id": 3,
+      "name": "Hněv",
+      "term": "Krodha",
+      "meaning": "Hněv upozorňuje na překročené hranice nebo nenaplněné potřeby. Jeho energii můžeš proměnit v jasné sdělení bez ubližování.",
+      "question": "Jakou potřebu můj hněv chrání?"
+    },
+    {
+      "id": 4,
+      "name": "Chamtivost",
+      "term": "Lobha",
+      "meaning": "Touha mít stále víc dokáže zastínit to, co už stačí. Všímej si okamžiku, kdy se potřeba mění v nekonečný hlad.",
+      "question": "Jak poznám, že mám dost?"
+    },
+    {
+      "id": 5,
+      "name": "Hmotná rovina",
+      "term": "Bhu-loka",
+      "meaning": "Tělo, domov a každodenní povinnosti tvoří základ tvé cesty. Duchovní úvaha může začít docela obyčejnou péčí o sebe.",
+      "question": "Co konkrétního dnes potřebuje moje tělo?"
+    },
+    {
+      "id": 6,
+      "name": "Zaslepení",
+      "term": "Moha",
+      "meaning": "Silné připoutání zužuje pohled na jedinou možnost. Ustup o krok a dovol si vidět i to, co se do tvého přání nehodí.",
+      "question": "Na čem lpím tak silně, že přehlížím jiné možnosti?"
+    },
+    {
+      "id": 7,
+      "name": "Pýcha",
+      "term": "Mada",
+      "meaning": "Pocit vlastní důležitosti může bránit učení. Hodnota člověka přitom nemusí stát na převaze nad někým jiným.",
+      "question": "Kde se snažím působit lépe, místo abych byl upřímný?"
+    },
+    {
+      "id": 8,
+      "name": "Lakota",
+      "term": "Matsarya",
+      "meaning": "Svírání majetku, času nebo uznání často vyrůstá ze strachu ze ztráty. Bezpečí lze hledat také ve vztazích a důvěře.",
+      "question": "Co držím příliš pevně a čeho se bojím?"
+    },
+    {
+      "id": 9,
+      "name": "Smyslová rovina",
+      "term": "Kama-loka",
+      "meaning": "Smysly přinášejí potěšení i rozptýlení. Pozoruj rozdíl mezi tím, co tě vyživuje, a tím, čím pouze přehlušuješ nepohodu.",
+      "question": "Který požitek mi prospívá a který mě odvádí od sebe?"
+    },
+    {
+      "id": 10,
+      "name": "Očista",
+      "term": "Shuddhi",
+      "meaning": "Očista je prostor po tom, co už nepotřebuješ. Může jít o úklid, odpočinek i ukončení návyku, který ti bere sílu.",
+      "question": "Co mohu ze svého dne odstranit, aby se mi lépe dýchalo?"
+    },
+    {
+      "id": 11,
+      "name": "Zábava",
+      "term": "Gandharva",
+      "meaning": "Hravost uvolňuje napětí a vrací lehkost. Všimni si také, zda zábava někdy neslouží jako způsob, jak odložit důležitou věc.",
+      "question": "Kdy si dovoluji radost bez výčitek?"
+    },
+    {
+      "id": 12,
+      "name": "Závist",
+      "term": "Irshya",
+      "meaning": "Srovnávání ukazuje něco, po čem toužíš. Místo hodnocení druhého můžeš hledat vlastní cestu k této kvalitě.",
+      "question": "Co obdivuji u druhých a jak to mohu rozvíjet u sebe?"
+    },
+    {
+      "id": 13,
+      "name": "Prázdnota",
+      "term": "Antariksha",
+      "meaning": "Mezidobí bez jasného směru může být nepříjemné. Nemusíš je hned zaplnit; někdy právě v tichu dozrává další krok.",
+      "question": "Co se objeví, když na chvíli přestanu vyplňovat každou mezeru?"
+    },
+    {
+      "id": 14,
+      "name": "Jemná rovina",
+      "term": "Bhuvar-loka",
+      "meaning": "Vnitřní obrazy a nálady ovlivňují tvé prožívání, i když je druzí nevidí. Vnímej je jako zkušenost, kterou lze pozorovat.",
+      "question": "Jaká nálada dnes barví můj pohled na svět?"
+    },
+    {
+      "id": 15,
+      "name": "Svět fantazie",
+      "term": "Naga-loka",
+      "meaning": "Představivost otevírá možnosti. Aby se sen mohl stát skutečností, potřebuje také malý proveditelný krok.",
+      "question": "Kterou představu chci vyzkoušet v běžném životě?"
+    },
+    {
+      "id": 16,
+      "name": "Žárlivost",
+      "term": "Dvesha",
+      "meaning": "Strach, že přijdeš o vztah nebo své místo, může vyvolat potřebu kontrolovat. Zkus místo kontroly pojmenovat svou nejistotu.",
+      "question": "O jaké ujištění mohu požádat otevřeně?"
+    },
+    {
+      "id": 17,
+      "name": "Soucit",
+      "term": "Daya",
+      "meaning": "Soucit znamená vnímat bolest bez nutnosti soudit. Může být laskavý a zároveň zachovat vlastní hranice.",
+      "question": "Jak bych reagoval, kdybych znal celý příběh druhého?"
+    },
+    {
+      "id": 18,
+      "name": "Radost",
+      "term": "Harsha-loka",
+      "meaning": "Radost nemusí čekat na dokonalé podmínky. Všimni si drobných okamžiků, ve kterých už život působí dobře.",
+      "question": "Co mi dnes přineslo nečekanou radost?"
+    },
+    {
+      "id": 19,
+      "name": "Rovina činů",
+      "term": "Karma-loka",
+      "meaning": "Jednání má důsledky, i když výsledek nelze plně řídit. Soustřeď se na část situace, za kterou můžeš převzít odpovědnost.",
+      "question": "Jaký krok je nyní skutečně v mé moci?"
+    },
+    {
+      "id": 20,
+      "name": "Štědrost",
+      "term": "Dana",
+      "meaning": "Dávání nemusí znamenat velký dar. Čas, pozornost nebo zkušenost mohou být cenné, pokud je nabízíš svobodně.",
+      "question": "Co mohu nabídnout bez očekávání protislužby?"
+    },
+    {
+      "id": 21,
+      "name": "Náprava",
+      "term": "Samana papa",
+      "meaning": "Uznání chyby má smysl tehdy, když vede k opravě. Sebetrestání lze nahradit odpovědností a konkrétní změnou.",
+      "question": "Co mohu napravit a komu se potřebuji omluvit?"
+    },
+    {
+      "id": 22,
+      "name": "Dharma",
+      "term": "Dharma-loka",
+      "meaning": "Dharma připomíná řád a smysluplné jednání. Hledej soulad mezi svými hodnotami, okolnostmi a tím, co skutečně děláš.",
+      "question": "Podle jaké hodnoty se chci v této situaci zachovat?"
+    },
+    {
+      "id": 23,
+      "name": "Nebeská rovina",
+      "term": "Svarga-loka",
+      "meaning": "Příjemné období přináší úlevu. Užij si ho, aniž bys od něj očekával, že bude trvat beze změny.",
+      "question": "Co dobrého nyní přijímám a dokážu ocenit?"
+    },
+    {
+      "id": 24,
+      "name": "Špatná společnost",
+      "term": "Ku-sanga",
+      "meaning": "Prostředí ovlivňuje to, co považuješ za normální. Všímej si vztahů, po kterých ztrácíš jasnost nebo vlastní hlas.",
+      "question": "Ve které společnosti se vzdaluji svým hodnotám?"
+    },
+    {
+      "id": 25,
+      "name": "Dobrá společnost",
+      "term": "Su-sanga",
+      "meaning": "Podpůrné vztahy dávají prostor pravdivosti i růstu. Nemusejí se vším souhlasit, aby ti pomáhaly.",
+      "question": "Kdo mě podporuje a zároveň mi umí říct pravdu?"
+    },
+    {
+      "id": 26,
+      "name": "Smutek",
+      "term": "Duhkha",
+      "meaning": "Smutek bývá odpovědí na ztrátu nebo nenaplněné přání. Dovol mu prostor a hledej přiměřenou oporu.",
+      "question": "Co potřebuji oplakat a co mi při tom pomáhá?"
+    },
+    {
+      "id": 27,
+      "name": "Nesobecká služba",
+      "term": "Paramartha",
+      "meaning": "Užitečná činnost může přesáhnout osobní prospěch. Udržitelné pomáhání ale počítá i s tvou vlastní kapacitou.",
+      "question": "Komu mohu prospět způsobem, který mě nevyčerpá?"
+    },
+    {
+      "id": 28,
+      "name": "Vlastní cesta",
+      "term": "Sudharma",
+      "meaning": "Smysluplná praxe odpovídá člověku, který ji žije. Nemusíš přebírat cizí cestu jen proto, že je obdivovaná.",
+      "question": "Co je mi vlastní, i když to druzí dělají jinak?"
+    },
+    {
+      "id": 29,
+      "name": "Odklon od hodnot",
+      "term": "Adharma",
+      "meaning": "Když jednání ztrácí oporu v hodnotách, vzniká vnitřní rozpor. Návrat může začít jediným poctivým rozhodnutím.",
+      "question": "Kde své hodnoty znám, ale nejednám podle nich?"
+    },
+    {
+      "id": 30,
+      "name": "Dobré sklony",
+      "term": "Uttama gati",
+      "meaning": "Opakované drobné volby se stávají návykem. Podpoř směr, který ti prospívá, vhodnými podmínkami místo pouhé vůle.",
+      "question": "Který dobrý návyk si chci usnadnit?"
+    },
+    {
+      "id": 31,
+      "name": "Posvátná rovina",
+      "term": "Yaksha-loka",
+      "meaning": "Některé chvíle vnímáš jako zvlášť hodnotné. Pozornost a úcta mohou proměnit i obyčejnou činnost v něco smysluplného.",
+      "question": "Čemu chci v životě věnovat větší úctu?"
+    },
+    {
+      "id": 32,
+      "name": "Rovnováha",
+      "term": "Maha-loka",
+      "meaning": "Rovnováha se průběžně upravuje podle situace. Není třeba rozdělovat všechno stejně; důležité je včas poznat vychýlení.",
+      "question": "Čeho je teď příliš a čeho málo?"
+    },
+    {
+      "id": 33,
+      "name": "Rovina vůně",
+      "term": "Gandha-loka",
+      "meaning": "Vůně a další jemné vjemy vracejí pozornost do přítomnosti. Zpomal a všimni si prostředí, ve kterém právě jsi.",
+      "question": "Jaký drobný vjem mě dokáže ukotvit tady a teď?"
+    },
+    {
+      "id": 34,
+      "name": "Rovina chuti",
+      "term": "Rasa-loka",
+      "meaning": "Chuť připomíná schopnost rozlišovat a vychutnávat. Všímej si kvality prožitku, místo abys jen přidával další podněty.",
+      "question": "Co bych si více užil, kdybych zpomalil?"
+    },
+    {
+      "id": 35,
+      "name": "Očistec",
+      "term": "Naraka-loka",
+      "meaning": "Tradiční obraz bolestného místa lze číst jako setkání s důsledky. Obtížná zkušenost může ukázat, co je potřeba změnit.",
+      "question": "Jakou změnu ode mě současná obtíž vyžaduje?"
+    },
+    {
+      "id": 36,
+      "name": "Jasné vědomí",
+      "term": "Svachchha",
+      "meaning": "Jasnost přichází, když na chvíli ustoupí hluk soudů. Zkus situaci popsat jednoduše, bez přikrašlování i obviňování.",
+      "question": "Jak by zněl věcný popis toho, co se děje?"
+    },
+    {
+      "id": 37,
+      "name": "Sebepoznání",
+      "term": "Jnana",
+      "meaning": "Poznání sebe vzniká pozorováním skutečných reakcí. Všímej si rozdílu mezi tím, jaký chceš být, a tím, co právě prožíváš.",
+      "question": "Co jsem se o sobě dozvěděl z poslední náročné situace?"
+    },
+    {
+      "id": 38,
+      "name": "Životní energie",
+      "term": "Prana-loka",
+      "meaning": "Energie není nevyčerpatelná. Sleduj, které činnosti ti dodávají sílu a které ji dlouhodobě spotřebovávají.",
+      "question": "Co mě skutečně obnovuje?"
+    },
+    {
+      "id": 39,
+      "name": "Uvolňování",
+      "term": "Apana-loka",
+      "meaning": "Odložení přebytečného vytváří prostor pro nové. Můžeš pustit úkol, očekávání nebo zvyk, který už neslouží.",
+      "question": "Co si nesu dál jen ze zvyku?"
+    },
+    {
+      "id": 40,
+      "name": "Proudění",
+      "term": "Vyana-loka",
+      "meaning": "Jednotlivé části života spolu souvisejí. Malá změna v odpočinku, práci nebo komunikaci může ovlivnit celý den.",
+      "question": "Kde se můj život zasekl a co by obnovilo pohyb?"
+    },
+    {
+      "id": 41,
+      "name": "Lidská rovina",
+      "term": "Jana-loka",
+      "meaning": "Společný život zahrnuje blízkost i rozdílnost. Setkej se s druhým jako s člověkem, ne pouze jako s rolí ve svém příběhu.",
+      "question": "Co mi pomáhá slyšet druhého bez okamžité obrany?"
+    },
+    {
+      "id": 42,
+      "name": "Rovina ohně",
+      "term": "Agni-loka",
+      "meaning": "Oheň symbolizuje sílu proměny. Zápal potřebuje směr a míru, aby vytvářel místo toho, aby spaloval.",
+      "question": "Kam chci nasměrovat svou rozhodnost?"
+    },
+    {
+      "id": 43,
+      "name": "Lidské zrození",
+      "term": "Manushya janma",
+      "meaning": "Lidská zkušenost nabízí možnost uvědomovat si své jednání. Svoboda začíná malou mezerou mezi podnětem a reakcí.",
+      "question": "Kde dnes mohu reagovat vědoměji než obvykle?"
+    },
+    {
+      "id": 44,
+      "name": "Nevědomost",
+      "term": "Avidya",
+      "meaning": "Nevědomost není ostuda, pokud ji dokážeš přiznat. Jistota bez ověření někdy brání porozumění více než samotná neznalost.",
+      "question": "Co potřebuji zjistit, než udělám závěr?"
+    },
+    {
+      "id": 45,
+      "name": "Pravé poznání",
+      "term": "Suvidya",
+      "meaning": "Poznání se projevuje v jednání, ne jen ve slovech. Ověřuj své porozumění zkušeností a ochotou opravit názor.",
+      "question": "Jak poznám v praxi, že něčemu opravdu rozumím?"
+    },
+    {
+      "id": 46,
+      "name": "Rozlišování",
+      "term": "Viveka",
+      "meaning": "Rozlišování pomáhá oddělit okamžité nutkání od dlouhodobě smysluplné volby. Dopřej rozhodnutí potřebný čas.",
+      "question": "Co je teď příjemné a co je pro mě skutečně dobré?"
+    },
+    {
+      "id": 47,
+      "name": "Neutralita",
+      "term": "Sarasvati",
+      "meaning": "Odstup může otevřít více pohledů současně. Neutralita však nemusí znamenat lhostejnost nebo vyhýbání se odpovědnosti.",
+      "question": "Jak by situaci popsal někdo, kdo nestojí na žádné straně?"
+    },
+    {
+      "id": 48,
+      "name": "Sluneční rovina",
+      "term": "Yamuna",
+      "meaning": "Slunce zde symbolizuje aktivní, vystupující sílu. Všímej si své schopnosti začít, rozhodnout a vstoupit do dění.",
+      "question": "Kde potřebuji více zdravé iniciativy?"
+    },
+    {
+      "id": 49,
+      "name": "Měsíční rovina",
+      "term": "Ganga",
+      "meaning": "Měsíc připomíná přijímání, odpočinek a citlivost. I naslouchání a čekání mohou být plnohodnotnou součástí cesty.",
+      "question": "Kde si mohu dovolit přijímat místo neustálého výkonu?"
+    },
+    {
+      "id": 50,
+      "name": "Kázeň",
+      "term": "Tapas-loka",
+      "meaning": "Kázeň je pravidelná péče o zvolený směr. Nejlépe slouží, když podporuje život a nestává se trestem.",
+      "question": "Jaký malý závazek dokážu poctivě dodržet?"
+    },
+    {
+      "id": 51,
+      "name": "Země",
+      "term": "Prithvi",
+      "meaning": "Návrat na zem obnovuje kontakt s tím, co je konkrétní. Začni tím, co můžeš vidět, udělat a dokončit.",
+      "question": "Jaký obyčejný krok mě teď ukotví?"
+    },
+    {
+      "id": 52,
+      "name": "Násilí",
+      "term": "Himsa-loka",
+      "meaning": "Ubližování může mít podobu činu, řeči i nátlaku. Všímej si dopadu svého jednání a hledej způsob, jak škodu zastavit.",
+      "question": "Kde mohu nahradit tlak jasnou a respektující hranicí?"
+    },
+    {
+      "id": 53,
+      "name": "Vodní rovina",
+      "term": "Jala-loka",
+      "meaning": "Voda symbolizuje přizpůsobivost a citový pohyb. Pružnost nemusí znamenat ztrátu vlastního směru.",
+      "question": "V čem mohu povolit, aniž bych zradil sám sebe?"
+    },
+    {
+      "id": 54,
+      "name": "Oddanost",
+      "term": "Bhakti-loka",
+      "meaning": "Oddanost znamená věnovat pozornost něčemu, co přesahuje okamžitý prospěch. Připomíná důvěru, péči a ochotu přestat vše řídit.",
+      "question": "Čemu chci sloužit celým srdcem?"
+    },
+    {
+      "id": 55,
+      "name": "Ego",
+      "term": "Ahamkara",
+      "meaning": "Příběh o sobě pomáhá orientaci, ale může se stát těsnou klecí. Nemusíš každou odlišnost vnímat jako ohrožení.",
+      "question": "Kterou svou nálepku bráním až příliš?"
+    },
+    {
+      "id": 56,
+      "name": "Prvotní zvuk",
+      "term": "Omkara",
+      "meaning": "Zvuk připomíná rytmus a počátek vyjádření. Naslouchej tónu svého hlasu i tomu, co zůstává mezi slovy.",
+      "question": "Jak zní můj vnitřní rozhovor, když se mi nedaří?"
+    },
+    {
+      "id": 57,
+      "name": "Vzdušná rovina",
+      "term": "Vayu-loka",
+      "meaning": "Vzduch symbolizuje pohyb a otevřenost. Změna perspektivy může uvolnit to, co se z jediného místa zdá neprůchodné.",
+      "question": "Jaký nový pohled chci připustit?"
+    },
+    {
+      "id": 58,
+      "name": "Rovina záření",
+      "term": "Tejas-loka",
+      "meaning": "Záření lze chápat jako vliv, který máš na své okolí. Všímej si, co přináší tvoje přítomnost i bez velkých slov.",
+      "question": "Jakou atmosféru kolem sebe vytvářím?"
+    },
+    {
+      "id": 59,
+      "name": "Rovina pravdy",
+      "term": "Satya-loka",
+      "meaning": "Pravdivost propojuje vnitřní zkušenost s tím, co říkáš. Může být citlivá a nemusí sloužit jako zbraň.",
+      "question": "Jakou pravdu potřebuji vyslovit laskavě?"
+    },
+    {
+      "id": 60,
+      "name": "Dobrý úsudek",
+      "term": "Subuddhi",
+      "meaning": "Rozum může hledat řešení, která berou v úvahu širší důsledky. Dobré rozhodnutí počítá s fakty i lidskou zkušeností.",
+      "question": "Které řešení prospívá také lidem kolem mě?"
+    },
+    {
+      "id": 61,
+      "name": "Zkreslený úsudek",
+      "term": "Durbuddhi",
+      "meaning": "Chytré zdůvodnění někdy pouze zakrývá přání. Zkus rozpoznat, kdy hledáš porozumění a kdy obhajobu předem zvoleného závěru.",
+      "question": "Jaký nepohodlný fakt ve své úvaze vynechávám?"
+    },
+    {
+      "id": 62,
+      "name": "Štěstí",
+      "term": "Sukha",
+      "meaning": "Spokojenost lze někdy najít i bez dalšího úspěchu. Všimni si rozdílu mezi klidným naplněním a krátkou úlevou.",
+      "question": "Co v mém životě už nyní funguje dobře?"
+    },
+    {
+      "id": 63,
+      "name": "Temnota",
+      "term": "Tamas",
+      "meaning": "Zamlžení a útlum mohou bránit pohybu. Začni malým rozpoznáním současného stavu a jednou dostupnou oporou.",
+      "question": "Co je nejmenší krok, který mi pomůže z nehybnosti?"
+    },
+    {
+      "id": 64,
+      "name": "Svět jevů",
+      "term": "Prakriti-loka",
+      "meaning": "Svět forem je proměnlivý a vzájemně propojený. Pozoruj změnu, aniž bys od každé podoby vyžadoval trvalost.",
+      "question": "Kterou proměnu se právě učím přijímat?"
+    },
+    {
+      "id": 65,
+      "name": "Vnitřní prostor",
+      "term": "Antar-loka",
+      "meaning": "Vnitřní prostor umožňuje všimnout si myšlenky, aniž bys ji musel hned následovat. Krátká pauza rozšiřuje možnost volby.",
+      "question": "Co slyším, když na chvíli ztiším vnější podněty?"
+    },
+    {
+      "id": 66,
+      "name": "Blaženost",
+      "term": "Ananda-loka",
+      "meaning": "Blaženost je zde obrazem hlubšího souladu. Není nutné ji vyrábět ani si vyčítat, když právě nepřichází.",
+      "question": "Kdy jsem naposledy cítil klidný soulad se životem?"
+    },
+    {
+      "id": 67,
+      "name": "Kosmické dobro",
+      "term": "Rudra-loka",
+      "meaning": "Širší pohled přesahuje jednotlivý zájem. Ptej se, jak tvé rozhodnutí ovlivňuje vztahy, prostředí a budoucnost.",
+      "question": "Co by bylo dobré v širším měřítku?"
+    },
+    {
+      "id": 68,
+      "name": "Kosmické vědomí",
+      "term": "Vaikuntha-loka",
+      "meaning": "Cíl hry symbolizuje celek, v němž se jednotlivé zkušenosti mohou propojit. Uzavři cestu tím, co si chceš odnést do života.",
+      "question": "Co nyní chápu jinak a jak podle toho chci jednat?"
+    },
+    {
+      "id": 69,
+      "name": "Absolutní rovina",
+      "term": "Brahma-loka",
+      "meaning": "Představa úplnosti může být inspirativní i svůdná. Ani pocit, že už všechno chápeš, nemusí znamenat konec učení.",
+      "question": "Kde zaměňuji vznešenou představu za prožitou zkušenost?"
+    },
+    {
+      "id": 70,
+      "name": "Čistota a soulad",
+      "term": "Sattva-guna",
+      "meaning": "Sattva označuje kvalitu jasnosti a vyrovnanosti. Podporuj podmínky, ve kterých je snazší vnímat a jednat s rozvahou.",
+      "question": "Co v mém prostředí podporuje jasnost?"
+    },
+    {
+      "id": 71,
+      "name": "Činnost a neklid",
+      "term": "Rajo-guna",
+      "meaning": "Radžas označuje pohyb, touhu a aktivitu. Energie slouží dobře, pokud nemusí neustále dokazovat vlastní hodnotu.",
+      "question": "Která činnost má smysl a která jen zaplňuje neklid?"
+    },
+    {
+      "id": 72,
+      "name": "Setrvačnost",
+      "term": "Tamo-guna",
+      "meaning": "Tamas jako setrvačnost uzavírá číselnou řadu a vrací hru na zem. Nový začátek může vyžadovat opuštění pohodlné nehybnosti.",
+      "question": "Co mě drží na místě a jaký jednoduchý krok zvolím?"
+    }
+  ],
+  "arrows": {
+    "10": 23,
+    "17": 69,
+    "20": 32,
+    "22": 60,
+    "27": 41,
+    "28": 50,
+    "37": 66,
+    "45": 67,
+    "46": 62,
+    "54": 68
+  },
+  "snakes": {
+    "12": 8,
+    "16": 4,
+    "24": 7,
+    "29": 6,
+    "44": 9,
+    "52": 35,
+    "55": 3,
+    "61": 13,
+    "63": 2,
+    "72": 51
+  }
+}

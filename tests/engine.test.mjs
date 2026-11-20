@@ -1,0 +1,12 @@
+import test from 'node:test';import assert from 'node:assert/strict';import fs from 'node:fs';
+import {resolveTurn,nextPlayer,die,csvCell} from '../dist/engine.js';
+const d=JSON.parse(fs.readFileSync(new URL('../dist/data.json',import.meta.url))),p=position=>({position,finished:false});
+test('72 fields and 20 traditional connections',()=>{assert.deepEqual(d.fields.map(f=>f.id),Array.from({length:72},(_,i)=>i+1));assert.equal(Object.keys(d.arrows).length,10);assert.equal(Object.keys(d.snakes).length,10);for(const f of d.fields){assert.ok(f.meaning&&f.question&&f.term);}for(const [a,b]of Object.entries(d.arrows))assert.ok(+a<b);for(const [a,b]of Object.entries(d.snakes))assert.ok(+a>b);});
+test('unborn waits and enters via six',()=>{assert.equal(resolveTurn(p(null),[5],d).position,null);assert.equal(resolveTurn(p(null),[6,5],d).position,11);assert.equal(resolveTurn(p(null),[6,6,6,4],d).position,5);});
+test('sixes combine, exactly three cancel, four count',()=>{assert.equal(resolveTurn(p(20),[6,2],d).position,50);assert.equal(resolveTurn(p(30),[6,6,6,4],d).position,34);assert.equal(resolveTurn(p(15),[6,6,6,6,1],d).position,40);});
+test('every connection resolves from its endpoint',()=>{for(const [a,b]of Object.entries({...d.arrows,...d.snakes})){const r=resolveTurn(p(+a-1),[1],d);assert.equal(r.position,b);assert.deepEqual(r.path,[+a,b]);}});
+test('exact goal, passing 68 and ceiling 72',()=>{assert.equal(resolveTurn(p(66),[2],d).finished,true);assert.equal(resolveTurn(p(53),[1],d).finished,true);assert.equal(resolveTurn(p(67),[2],d).position,69);assert.equal(resolveTurn(p(71),[1],d).position,51);assert.equal(resolveTurn(p(71),[2],d).position,71);assert.equal(resolveTurn(p(67),[6,1],d).position,67);});
+test('finished players skip, solo and all complete',()=>{assert.equal(nextPlayer([{finished:false},{finished:true}],0),0);assert.equal(nextPlayer([{finished:true}],0),-1);assert.equal(nextPlayer([{finished:false},{finished:false}],0),1);});
+test('invalid sequences rejected',()=>{for(const r of [[],[0],[7],[6],[2,3]])assert.throws(()=>resolveTurn(p(1),r,d));});
+test('die rejects biased upper bound and yields 1–6',()=>{let i=0;assert.equal(die(a=>{a[0]=i++?5:4294967295;}),6);});
+test('CSV quotes and guards formulas',()=>{assert.equal(csvCell('A;"B'), '"A;""B"');assert.equal(csvCell('=1+2'),'"\'=1+2"');});
