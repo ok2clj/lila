@@ -7,7 +7,7 @@ Kompletní česká sada tradiční 72polové hry Leela: původní vektorový pl�
 ## Tisková sada
 
 - [Herní plán A3 na šířku](dist/downloads/Lila_herni_plan_A3.pdf): 72 českých polí, 10 hadů a 10 šípů.
-- [Český průvodce A4](dist/downloads/Lila_navod_A4.pdf): 18 stran, pravidla, přehled přesunů, význam a otázka pro každé pole, závěrečné ohlédnutí a prameny.
+- [Český průvodce A4](dist/downloads/Lila_navod_A4.pdf): 28 stran, pravidla, přehled přesunů, význam a otázka pro každé pole, závěrečné ohlédnutí a prameny.
 
 Plán tiskněte barevně na A3, 100 %, bez ořezu. Okraje jsou ponechané pro běžný tisk. Pro A4 zvolte přizpůsobení celé stránce; názvy budou menší. Pro větší desku lze použít plakátový tisk PDF na více listů. Příručku tiskněte na A4, vhodně oboustranně.
 
@@ -42,6 +42,10 @@ Cílem je **68**, nikoli 72. Před vstupem čekáte na šestku, figurka symbolic
 
 Detaily, příklady a odlišnosti od jiných edic jsou v [pravidlech](docs/PRAVIDLA.md). Web i PDF používají stejnou, výslovně vymezenou součtovou variantu. Nelze ji označovat za jediná původní pravidla všech historických podob Líly.
 
+## Duchovní smysl a legenda
+
+Rozšířený průvodce věnuje deset stran myšlence hry, jejímu duchovnímu horizontu, symbolice, možnostem osobní proměny a tichému otevření hry. Obsahuje původní třídílnou legendu **Poutnice a tichý dům / Návrat k pramenu / Kámen, který mohl odpočívat**. Příběh není vydáván za staroindický historický pramen. Stejný doprovod najdete na webu v části **Duchovní smysl** a v [samostatném textu](docs/DUCHOVNI_SMYSL.md).
+
 ## Dokumentace
 
 - [Pravidla a tradiční přechody](docs/PRAVIDLA.md)
@@ -58,7 +62,7 @@ Web je záměrně bez frameworku a externích závislostí. Pro testy potřebuje
 node --test tests/*.test.mjs
 ```
 
-Zdroj obsahu: `scripts/make-data.py`. Po úpravě spusťte `python3 scripts/make-data.py`; vznikne společný `dist/data.json`. PDF se generují z téhož souboru pomocí macOS CoreGraphics/CoreText, viz dokumentace vývoje. Hotové PDF jsou již přiložené; jejich vytváření není potřeba pro hraní webu.
+Zdroj obsahu polí: `scripts/make-data.py`. Duchovní doprovod vytváří `python3 scripts/make-spirit.py` do společného `dist/spirit.json` a dokumentace. Po úpravě spusťte `python3 scripts/make-data.py`; vznikne společný `dist/data.json`. PDF se generují z téhož souboru pomocí macOS CoreGraphics/CoreText, viz dokumentace vývoje. Hotové PDF jsou již přiložené; jejich vytváření není potřeba pro hraní webu.
 
 ## Soukromí a pojetí
 

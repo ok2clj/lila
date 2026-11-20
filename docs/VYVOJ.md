@@ -11,9 +11,11 @@ dist/
   app.js           rozhraní, ukládání, importy a exporty
   engine.js        čistá logika a generování hodů
   data.json        72 polí a mapy 20 přesunů
+  spirit.json      společný duchovní doprovod pro web a PDF
   downloads/       hotové PDF
 scripts/
   make-data.py     zdroj původního českého obsahu
+  make-spirit.py   duchovní kapitoly a původní alegorická legenda
   make-pdfs.m      macOS generátor vektorových PDF a kontrolních PNG
 tests/
   engine.test.mjs  hraniční případy pravidel
@@ -53,3 +55,7 @@ Publikuje se pouze `dist/`. `.openai/hosting.json` identifikuje hostovanou insta
 ## Možná rozšíření
 
 Síťové místnosti by vyžadovaly serverový autoritativní stav, kódy místností, ověření hráčů a řešení souběhu tahů. Současná lokální hra takovou funkci nepředstírá. Dále by šly přidat migrované zálohy, více pravidlových variant nebo samostatné poznámky pro každou návštěvu pole.
+
+## Rozšířený duchovní doprovod
+
+`python3 scripts/make-spirit.py` obnoví `dist/spirit.json` a `docs/DUCHOVNI_SMYSL.md` ze stejného zdroje. Web ho načítá až po otevření duchovní části a ošetřuje text escapováním. PDF generátor vkládá deset stran před praktický návod. Celkem má průvodce 28 stran. Přepínač `/tmp/lila-pdf "$PWD" --guide-only` aktualizuje pouze průvodce a ponechá existující plán.

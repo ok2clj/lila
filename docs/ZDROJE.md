@@ -21,3 +21,9 @@ Vysvětlení jemných rovin, energie a gun slouží jako symbolický jazyk hry. 
 ## Grafika
 
 Mřížka, barevné úrovně, hadi, šípy, lotos i typografická sazba byly vytvořeny programově pro tento projekt. Nejsou převzaty skeny plánů, knižní obálky ani komerční ilustrace. Web používá systémové fonty, bez externích sítí pro fonty a obrázky.
+
+## Duchovní doprovod a legenda
+
+Duchovní horizont stručně odkazuje na Džóharího pojetí prezentované Sanatan Society a nakladatelem. Pojmy mája, karma a mókša jsou uvedeny jako náboženská a filozofická témata. Konkrétní osobní příklady, osmidílné průvodcovské čtení řad, otázky, návrh tichého začátku a mechanismus reflexe jsou původní interpretací této sady. Nejde o klinicky doložený příslib transformace.
+
+Třídílná legenda o poutnici je původní literární alegorie napsaná pro tento projekt. Nepřipisuje se indickému světci ani historickému zakladateli hry a není převyprávěním Džóharího textu. Odkazy [1–3] v doprovodu odpovídají Sanatan Society, oficiální stránce nakladatele a práci Schmidt-Madsena.

@@ -1,0 +1,229 @@
+# Duchovní smysl a legenda Líly
+
+Rozšířený doprovod k rozjímání: tradiční duchovní horizont, naše symbolické čtení a původní příběh o poutnici.
+
+Tradiční pojmy přibližujeme jako duchovní výklad. Ostatní komentáře, zastavení a celý příběh jsou původními texty této sady.
+
+## Cesta k tomu, kdo prožívá
+
+Herní plán může být zrcadlem: neříká, kým musíš být, ale nabízí místo, kde si všimneš, jak právě žiješ.
+
+### S jakou otázkou doopravdy přicházíš?
+
+Na začátku možná hledáš odpověď na vztah, rozhodnutí nebo pocit, že se něco opakuje. Líla dovoluje otázku na chvíli položit před sebe. Místo rychlého řešení zkoumáš, z jakého vnitřního místa o svém životě uvažuješ. Toužíš po jistotě? Potřebuješ uznání? Bojíš se změny? Už toto zastavení může otevřít jiný pohled.
+
+### Více prostoru mezi pocitem a činem
+
+Můžeš dopadnout na Hněv a nejprve se ohradit: to se mě přece netýká. Potom si třeba vybavíš nevyřčenou hranici. Pole samo nic neodhalilo ani nedokázalo. Nabídlo slovo, u něhož ses zastavil. Smysluplný posun nastává, když díky tomu v příští skutečné situaci poznáš svou reakci dříve a zvolíš, co s ní uděláš.
+
+### Kam tě cesta může posunout
+
+K větší poctivosti vůči sobě, menší potřebě všechno ovládat a větší citlivosti k druhým. Někdo si odnese odvahu požádat o pomoc, jiný schopnost nepřidávat si další povinnost. Není potřeba usilovat o velký zážitek. I klidnější rozhovor nebo jasnější rozhodnutí může být skutečným plodem hry.
+
+> Zkus si před prvním hodem říct: Jsem ochoten něco uvidět, i když to nebude odpověď, kterou jsem očekával.
+
+## Co znamená božská hra
+
+Následující pojmy přibližují duchovní jazyk spojený s Lílou. Nejde o jedinou nauku všech indických tradic.
+
+### Líla a návrat k celku
+
+V Džóharího pojetí znamená líla božskou hru: jednotlivý život se vztahuje k širšímu celku. Cesta směřuje k poznání sebe a k osvobození od ztotožnění, která člověka svazují. Návrat na 68 představuje duchovní vyústění této mapy. [1, 2]
+
+### Mája, karma a mókša
+
+Mája se zde vztahuje k iluzi či zastřenému vidění. Karma připomíná souvislost jednání a následků, mókša osvobození. Duchovní slovník dovoluje ptát se, zda své role považujeme za celé své bytí. Je to náboženský a filozofický výklad, nikoli měření stavu hráče. [1, 2]
+
+### Otevřená otázka místo povinné víry
+
+V této sadě si můžeš položit i prostou otázku: Co ve mně zůstává, když se na chvíli přestanu popisovat zaměstnáním, úspěchem nebo problémem? Nemusíš si odpovědět učeným slovem. Zůstaň u zkušenosti: tělo se nadechuje, pocit se proměňuje a ty můžeš vnímat, co právě přichází.
+
+### Tradice má více podob
+
+Dochované indické hry poznání ukazují různé náboženské a kosmologické mapy. Není doložen jediný zakladatel ani společná původní legenda této konkrétní sady. Akademická práce dokládá severoindickou tradici nejméně od počátku 18. století; to samo neurčuje dobu jejího vzniku. [3]
+
+> [1] Sanatan Society · [2] Johari, oficiální nakladatelská stránka · [3] Schmidt-Madsen (2013). Úplné odkazy jsou v Pramenech.
+
+## Figurka, kostka, had a šíp
+
+Tato symbolická čtení jsou nabídkou pro naši sadu. Můžeš je zkoumat, aniž bys každému hodu přisuzoval skrytý vzkaz.
+
+### Figurka a kostka: jednání a neovladatelnost
+
+Figurku posouváš rukou, výsledek hodu si však nevybíráš. V této drobné zkušenosti lze pozorovat vztah mezi úsilím a přijetím. Můžeš pečlivě připravit rozhovor, ale neřídit odpověď druhého. Přijetí neznamená pasivitu: rozlišuješ, co můžeš udělat, a co potřebuješ nechat otevřené.
+
+### Had: místo, kde se něco vrací
+
+Návrat dolů může vyvolat odpor, stud nebo pocit zmařeného úsilí. Všimni si nejprve tohoto pocitu. Had může sloužit jako obraz návyku, který se znovu ozval, nikoli jako trest či důkaz selhání. Třeba už dnes umíš stejný návyk rozpoznat s menší tvrdostí. Stejné pole tak může přinést novou zkušenost.
+
+### Šíp: opora, kterou nemusíš vlastnit
+
+Šíp může připomínat chvíli, kdy pomůže upřímnost, laskavý vztah nebo ochota pustit starou obranu. Nemusíš ho číst jako odměnu za duchovní zásluhy. Zeptej se raději, co tě nyní podpírá a jak tomu můžeš dát ve skutečném životě více prostoru.
+
+### Cíl: celek bez porovnávání
+
+Pole 68 může být obrazem okamžiku, kdy se přestaneš poměřovat polohou na desce. Tvé utrpení zůstává hodné péče a úspěch nemusí určovat tvou hodnotu. Blízkost cíle ani počet šípů neurčují duchovní úroveň člověka.
+
+> Otázka k přesunu: Co se ve mně ozvalo dřív, než jsem si přečetl význam pole?
+
+## Od ukotvení k přesahu
+
+Džóharí spojuje sedm úrovní s čakrami a osmou s přesahem. Následující názvy zastavení jsou náš volný průvodcovský obraz, nikoli test otevřenosti čaker. [1]
+
+### 1–18 · Tělo, potřeby a prožívání
+
+První řadu (1–9) lze projít s otázkou: Co potřebuji, abych se cítil ukotvený? Druhou (10–18) s otázkou: Jak zacházím se svou touhou, radostí a nejistotou? Návrat k tělu a pocitům nemusí být krokem zpět. Někdy je právě odpočinek poctivější než další duchovní úsilí.
+
+### 19–36 · Jednání a vztah
+
+Třetí řada (19–27) vybízí podívat se na důsledky vlastních činů. Čtvrtá (28–36) otevírá otázku rovnováhy, citlivosti a směru. Kde mluvím o svých hodnotách, ale nejednám podle nich? A kde se snažím být laskavý tak usilovně, že ztrácím vlastní hranice?
+
+### 37–54 · Porozumění a rozlišování
+
+Pátou řadu (37–45) můžeš číst jako pozvání sledovat vlastní zkušenost. Šestou (46–54) jako učení rozlišovat mezi naléhavým nutkáním a hlubším závazkem. Nejde o to přestat myslet. Jde o možnost vidět také hranice vlastního úsudku a zůstávat ochotný učit se.
+
+### 55–72 · Širší pohled a návrat
+
+Sedmá řada (55–63) připomíná, že ani velká myšlenka nezruší ego, neklid či únavu. Osmá (64–72) může otevřít otázku přesahu: čemu patří můj život vedle mého osobního prospěchu? Návrat na Zem (51) zve proměnit odpověď v každodenní péči.
+
+> Číselně vyšší řada není vyšší lidská hodnota. Všechny části života si zaslouží pozornost.
+
+## Jak může začít transformace
+
+Hra může být podnětem. Proměna se může odehrávat v tom, jak po setkání s tématem začneš vnímat a jednat. Není automatickým výsledkem partie.
+
+### Všimnout si a dát zkušenosti jméno
+
+Představ si, že se u Závisti zastavíš s větou: Mrzí mě, že druzí mají čas tvořit. Místo odsouzení se objeví potřeba, kterou jsi dlouho odsouval. To je drobný, ale důležitý rozdíl: už pouze nebojuješ s nepříjemným pocitem, začínáš rozumět tomu, co potřebuješ.
+
+### Uvolnit jediný příběh o sobě
+
+Z výroku Jsem závistivý člověk se může stát V této situaci závidím a chci tomu porozumět. Pocit nezmizel, ale přestal být celou totožností. Podobně můžeš zkoumat hněv, obavy i potřebu uznání. Takové rozlišení je nabídka pro vlastní práci se zkušeností, nikoli slib, že hra konkrétní potíž vyřeší.
+
+### Vyzkoušet jinou odpověď
+
+Změna získá konkrétní tvar: ve čtvrtek si vyhradím půl hodiny pro tvoření. Nebo druhému řeknu, co potřebuji, místo abych ho obviňoval. V dalším týdnu si všimni, co tato volba způsobila. Pokud nepomohla, uprav ji. I skromný pokus dává poznání pevnější půdu než silný dojem u stolu.
+
+### Vztah k sobě i k ostatním
+
+Někdo si po hře dovolí méně tlačit na výkon, jiný jasněji pojmenuje odpovědnost. Duchovní rozměr může spočívat v tom, že tvé porozumění prospěje také vztahu a konkrétnímu člověku. Sílu účinku nelze vyčíst z kostky; můžeš ji pozorovat ve vlastním životě.
+
+> Jedna možná cesta proměny: všimnout si · pojmenovat · připustit jiný pohled · zvolit malý čin · znovu se ohlédnout.
+
+## Poutnice a tichý dům
+
+Původní alegorické vyprávění napsané pro tuto sadu. Není to dochovaná indická legenda ani překlad příběhu Hariše Džóharího.
+
+### Otázka, kterou nesla
+
+Poutnice přišla k domu na konci cesty s otázkou, kterou už položila mnoha lidem: Kdy konečně poznám, že jsem na správném místě? V náručí nesla svazek map. Některé ukazovaly města, jiné slibovaly spokojenost a další popisovaly, jak by měl vypadat dobrý člověk. Čím více jich měla, tím méně se odvažovala udělat další krok.
+
+### Deska bez odpovědi
+
+Správce domu jí přinesl desku s dvaasedmdesáti poli a drobný kámen. Poutnice hledala návod, které místo jí zajistí štěstí. Správce však jen ukázal na prázdnou stránku vedle plánu. Napiš, s čím přicházíš, řekl. Ne co by se mělo stát světu, aby ses cítila dobře. Napiš, co chceš být ochotná uvidět sama u sebe.
+
+### První čekání
+
+Dlouho nemohla vstoupit do hry. Když kostka znovu ukázala jiné číslo než šest, zlobila se na správce, na pravidla i na ztracený čas. Pak si všimla, že se takto zlobívá i v životě: jako by každé čekání znamenalo, že se s ní zachází nespravedlivě. Na prázdnou stránku napsala: Neumím být na cestě, pokud už nevidím její konec.
+
+### Práh se otevřel
+
+Když později šestka padla, nezazněla žádná slavnostní hudba. Poutnice pouze položila kámen na plán. Přesto se něco změnilo. Poprvé se neptala, zda dostane správný výsledek. Zeptala se, co se v ní stane při příštím hodu. Dům jí nezačal dávat odpovědi. Začal jí poskytovat prostor pro pozornější otázku.
+
+> Zastavení k příběhu: Kde považuji čekání za důkaz, že se můj život nevyvíjí správně?
+
+## Návrat k pramenu
+
+Pokračování původního alegorického vyprávění. Postavy a události jsou literární obrazy.
+
+### To už přece znám
+
+Poutnice se naučila názvy polí a začala rychle vysvětlovat každý svůj přesun. U Soucitu vyprávěla, jak ráda pomáhá. U Poznání mluvila o knihách, které přečetla. Brzy usoudila, že důležitým částem hry rozumí. Když ji had vrátil dolů, odstrčila kámen. Tady jsem už byla, řekla. Tohle přece není moje místo.
+
+### Džbán, který netekl
+
+Správce postavil na stůl džbán s vodou. Zkus mi nalít, požádal ji. Poutnice džbán naklonila, ale voda nevyšla: hrdlo bylo ucpané prachem. Správce jí nepodal nový džbán ani neřekl, že je špatná. Přisunul misku a čistou látku. Někdy se vracíme, protože něco, co má proudit, zůstalo sevřené, řekl.
+
+### Jiná otázka
+
+Poutnice se vrátila k poznámce o soucitu. Uviděla v ní jméno člověka, kterému pomáhala, a vedle něj svou tichou výčitku, že jí dost nepoděkoval. Dlouho na ni hleděla. Nakonec neškrtla ani jeho jméno, ani vlastní lítost. Dopsala otázku: Umím pomáhat a současně pravdivě říct, co mohu nabídnout a co už ne?
+
+### Had beze jména
+
+Poutnice se zeptala, zda ji had potrestal za skrytou pýchu. Správce zavrtěl hlavou. Had na desce nezná tvůj příběh. Ty ses u něj zastavila a dovolila sis být poctivější. Poutnice pak kámen posunula k ocasu. Nebyla nadšená z návratu. Už se však nemusela tvářit, že se jí nemůže týkat.
+
+> Zastavení k příběhu: Kde používám větu Tohle už mám vyřešené, abych nemusel znovu naslouchat?
+
+## Kámen, který mohl odpočívat
+
+Závěr původního alegorického vyprávění. Jeho smyslem je nabídnout obraz k rozjímání, nikoli popsat původ hry.
+
+### Blízko poslední odpovědi
+
+Poutnice se dostala vysoko a začala se bát každého hodu. Nechtěla ztratit to, co už získala. Hru sledovala napjatěji než v okamžiku, kdy seděla na začátku. Všimla si, že se z touhy po poznání stala další snaha obstát. Dokonce i svůj klid začala poměřovat tím, zda se figurka blíží k cíli.
+
+### Místo ve středu
+
+Později kámen dopadl na šedesáté osmé pole. Poutnice čekala, zda přijde jistota, kterou si tak dlouho přála. V domě však bylo slyšet jen vodu a vzdálené kroky. Zeptala se správce, co se tedy mělo změnit. Ten neukázal na desku. Ukázal na její sevřenou dlaň. Kámen už nemusíš držet tak pevně, řekl.
+
+### Úkol za dveřmi
+
+Poutnice se podívala na své zápisky. Našla v nich prosbu, kterou chtěla vyslovit sestře, slib odpočinku a jméno člověka, jehož příběh nikdy pořádně nevyslechla. Neviděla hotový život ani záruku správných rozhodnutí. Viděla několik míst, kde mohla začít jednat jinak. Toho večera napsala sestře krátký, upřímný dopis.
+
+### Když znovu přišel hněv
+
+Po čase se poutnice do domu vrátila. Nesla méně map, ale pořád znala strach i hněv. Myslela jsem, že zmizí, řekla. Správce před ni znovu položil prázdnou stránku. Poutnice se tentokrát nesnažila obhajovat. Napsala: Dnes jsem se přistihla dřív. A zatímco voda tiše tekla, dovolila kameni chvíli odpočívat vedle desky.
+
+> Zastavení k příběhu: Co bych po této hře chtěl udělat jinak, i kdyby se moje těžké pocity zítra znovu ozvaly?
+
+## Tiché otevření hry
+
+Volitelné pozvání na několik minut. Můžeš ho přečíst nahlas nebo zůstat u ticha; obřad není podmínkou platné hry.
+
+### Udělej místo
+
+Odlož na chvíli to, co odvádí pozornost. Usaď se pohodlně a všimni si opory pod tělem. Dech nemusíš upravovat. Rozhlédni se po místnosti a dovol si být právě tady. Pokud hrajete ve skupině, připomeňte si, že každý smí mluvit, mlčet i přerušit hru.
+
+### Polož před sebe otázku
+
+Napiš jednu větu. Zkus začít slovy Co potřebuji pochopit… nebo Jak mohu… Jestli chceš změnit druhého člověka, vrať pozornost k tomu, jak se ve vztahu můžeš zachovat ty. Otázku můžeš později zpřesnit; nemusí být dokonalá.
+
+### Věta pro společný začátek
+
+Vstupuji do této hry s ochotou naslouchat. Dovolím si být překvapený a nebudu každému poli vnucovat význam. Co pro mě bude užitečné, proměním v malý čin. Co mi nebude patřit, mohu nechat být. Druhým ponechám jejich vlastní zkušenost.
+
+### Pauza mezi tahy
+
+Po dopadu nech na chvíli kostku ležet. Všimni si těla, pocitu a první myšlenky. Teprve pak čti výklad. Můžeš si zapsat tři krátké věci: co se mě dotklo, co zůstává nejasné a co mohu udělat. Pokud se nic neozývá, i to je poctivý zápis.
+
+> Není třeba vyvolávat zvláštní stav. Pozornost může být docela obyčejná a přesto hluboká.
+
+## Když hra pokračuje za stolem
+
+V duchovním čtení může Líla připomínat, že cesta k celku prochází způsobem, jak zacházíme se sebou, s druhými a s obyčejným dnem.
+
+### Poznání, které se stává vztahem
+
+Můžeš dlouho rozumět slovu soucit a přesto neposlouchat člověka vedle sebe. Duchovní smysl se může projevit v něčem méně okázalém: necháš druhého domluvit, přiznáš chybu nebo přestaneš pomáhat způsobem, který vytváří dluh. Takové jednání dává vnitřnímu poznání viditelnou podobu.
+
+### Osvobození v malém
+
+Pro účely osobního rozjímání můžeš hledat malý okamžik svobody: nemusíš poslechnout každé nutkání, okamžitě se obhájit ani opakovat dobře známou výčitku. To nezastupuje celý náboženský význam osvobození. Je to dostupný způsob, jak si duchovní otázku přiblížit vlastní zkušenosti.
+
+### Když nepřijde silný zážitek
+
+Tichá, běžná nebo i nedokončená partie nemusí být prázdná. Nepřítomnost prožitku nic neříká o tvé duchovní hodnotě. Není potřeba vyrábět souvislosti nebo nechat skupinu rozhodovat, co pro tebe hra znamená. K užitečnému postřehu se někdy vrátíš až při skutečném setkání o několik dní později.
+
+### Uzavři kruh konkrétně
+
+Na konci doplň tři věty: Dnes jsem si všiml… Chci zkusit… Poznám to podle… Potom si vyber jedinou věc a čas, kdy ji uděláš. Až se ohlédneš, ptej se spíše na míru poctivosti a laskavosti než na velikost úspěchu. Cesta se může prohlubovat i bez další partie.
+
+> Duchovní poslání této sady: učit se vidět vlastní prožívání jasněji a z tohoto porozumění žít s větší svobodou, odpovědností a laskavostí.
+
+## Prameny
+
+[1] [Sanatan Society: Leela, the Game of Knowledge](https://www.sanatansociety.com/hinduism_books/hb_leela_karma.htm) – Džóharího duchovní rámec: líla, mája, karma, osvobození a symbolika úrovní.
+
+[2] [Harish Johari: The Yoga of Snakes and Arrows – oficiální stránka nakladatele](https://www.simonandschuster.com/books/The-Yoga-of-Snakes-and-Arrows/Harish-Johari/9781594771781) – Náboženské a sebepoznávací pojetí moderní edice.
+
+[3] [Jacob Schmidt-Madsen: Road Maps for the Soul (2013)](https://www.themathesontrust.org/papers/hinduism/Schmidt-Madsen-Road_Maps_for_the_Soul.pdf) – Historická rozmanitost indických her poznání; odlišení tradovaného rámce od historického důkazu.

@@ -18,10 +18,14 @@
 
 ## PDF
 
-Obě PDF vytvořena a znovu otevřena PDFKitem. Plán má jednu stranu A3 na šířku; průvodce 18 stran A4. Všechny strany se vykreslily do PNG pro vizuální kontrolu; text byl extrahován pro porovnání názvů a otázek. Před vydáním byl zkontrolován plán, titul, pravidla, atlas i prameny. Texty nejsou rastrové obrázky.
+Obě PDF vytvořena a znovu otevřena PDFKitem. Plán má jednu stranu A3 na šířku; průvodce 28 stran A4. Všechny strany se vykreslily do PNG pro vizuální kontrolu; text byl extrahován pro porovnání názvů a otázek. Před vydáním byl zkontrolován plán, titul, pravidla, atlas i prameny. Texty nejsou rastrové obrázky.
 
 ## Známé meze
 
 Jde o partii u jednoho zařízení, bez online synchronizace. Poznámka u pole je aktuální verzí zápisu, nikoli časovou řadou. Vrácení hodu nepřežije nové načtení a předání tahu. Změna internetové adresy nebo profilu prohlížeče oddělí místní uložené hry; JSON je způsob přenosu. Tiskový deník obsahuje poznámky navázané na trasy tahů, zatímco TXT a JSON zahrnují i ostatní zápisky.
 
 Praktický tisk na konkrétní tiskárně nebyl proveden. Doporučujeme první kontrolní výtisk před laminací.
+
+## Rozšíření duchovního doprovodu
+
+Průvodce má po doplnění desetistránkové duchovní části 28 stran. Extrakce textu ověřila všech deset názvů kapitol a zachování všech 72 původních otázek. Rozložení nových stran bylo zkontrolováno v renderu PDF. Webová část byla otevřena v prohlížeči a ověřeny odkazy na kapitoly včetně legendy. Duchovní obsah načítá společný JSON; pravidla a uložené partie se tím nemění.
