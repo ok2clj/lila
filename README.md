@@ -2,7 +2,7 @@
 
 Kompletní česká sada tradiční 72polové hry Leela: původní vektorový plán A3, srozumitelný průvodce A4 a barevná webová hra pro **1–6 pojmenovaných hráčů u jednoho zařízení**.
 
-**Hrát:** https://lila-cesta-sebepoznani.ok2clj.chatgpt.site (hostovaná verze může vyžadovat přihlášení vlastníka).
+**Hrát:** https://lukasstejskal.cz/lila (dočasné umístění).
 
 ## Tisková sada
 
